@@ -172,7 +172,6 @@
     <Compile Include="IntersectionUtility3.cs" />
     <Compile Include="Intersector1.cs" />
     <Compile Include="IsInsideAxisAlignedBox2.cs" />
-    <Compile Include="MathBase.cs" />
     <Compile Include="Matrix4Factory.cs" />
     <Compile Include="PlaneSideClassification.cs" />
     <Compile Include="Polynomial1.cs" />
